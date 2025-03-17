@@ -6,6 +6,7 @@ practices and how to work with legacy systems.
 - **Fun fact**: I love playing volleyball in my free time.
 - **Course expectations**: To gain hands-on experience in
 maintaining and evolving software.
+
 ![My Image](image.jpg) <!-- Link to the uploaded image -->
 ## GitHub Profile
 You can view my personalized GitHub profile
